@@ -22,10 +22,6 @@ jobs:
       restore-keys: |
         ${{ runner.os }}-node-
 
-    # 无
-
-
-    # 安装依赖
     - run: npm ci
 
     # 打包构建
