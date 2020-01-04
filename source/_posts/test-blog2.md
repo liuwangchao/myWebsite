@@ -17,7 +17,7 @@ categories:
 如果网站部署到的域名是根目录，则 /images/图片名称.后缀名
 如果是子目录，则 /子目录名称/images/图片名称.后缀名
 -->
-![](/myWebsite/images/I am iron man.png)
+![](../images/I am iron man.png)
 
 
 ```js
