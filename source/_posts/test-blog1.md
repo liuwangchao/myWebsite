@@ -25,5 +25,5 @@ categories:
 3. 有序列表
 
 ```js
-const foo = 'bar'
+document.write("Love and share.");
 ```

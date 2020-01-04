@@ -16,5 +16,5 @@ categories:
 
 
 ```js
-const foo = 'bar'
+document.write("Love and share.");
 ```
