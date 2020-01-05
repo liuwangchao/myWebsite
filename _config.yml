@@ -99,11 +99,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git 
+  type: git
   repo: https://github.com/liuwangchao/liuwangchao.github.io.git
   branch: master
