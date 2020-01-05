@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 
 # 网站的网址
-url: https://liuwangchao.github.io/
+url: https://liuwangchao.github.io/myWebsite/
 
 # 网站的根路径
 # 注意：如果你部署的域名是根路径，则这里写 /
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-ayer-master
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
