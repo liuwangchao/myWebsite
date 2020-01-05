@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43011077-f823-4cf1-aeee-8402a569d38a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/草稿.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/images/Iamironman.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/test-blog2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/test-blog2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/images/I am iron man.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/Iamironman.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +29,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VULCAN\myWebsite\source\images" />
       <recent name="C:\Users\VULCAN\myWebsite\source\_posts" />
     </key>
   </component>
@@ -54,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578101447358</updated>
-      <workItem from="1578101449123" duration="13864000" />
+      <workItem from="1578101449123" duration="14479000" />
+      <workItem from="1578191595833" duration="5233000" />
     </task>
     <servers />
   </component>
@@ -66,5 +73,9 @@
       <screen x="91" y="0" width="1445" height="864" />
     </state>
     <state x="596" y="188" key="FileChooserDialogImpl/91.0.1445.864@91.0.1445.864" timestamp="1578101479436" />
+    <state x="801" y="131" width="672" height="678" key="search.everywhere.popup" timestamp="1578201114053">
+      <screen x="91" y="0" width="1445" height="864" />
+    </state>
+    <state x="801" y="131" width="672" height="678" key="search.everywhere.popup/91.0.1445.864@91.0.1445.864" timestamp="1578201114053" />
   </component>
 </project>
