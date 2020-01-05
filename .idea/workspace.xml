@@ -4,6 +4,8 @@
     <list default="true" id="43011077-f823-4cf1-aeee-8402a569d38a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/alipay.jpg" afterDir="false" />
@@ -68,7 +70,7 @@
       <workItem from="1578101449123" duration="14479000" />
       <workItem from="1578191595833" duration="8216000" />
       <workItem from="1578205745945" duration="5253000" />
-      <workItem from="1578214707920" duration="2411000" />
+      <workItem from="1578214707920" duration="3871000" />
     </task>
     <servers />
   </component>
