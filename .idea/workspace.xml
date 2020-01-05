@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43011077-f823-4cf1-aeee-8402a569d38a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/草稿.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/Iamironman.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/test-blog2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/test-blog2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/images/I am iron man.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/Iamironman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/alipay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/wechat.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +27,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VULCAN\myWebsite\themes\hexo-theme-ayer-master\source\images" />
       <recent name="C:\Users\VULCAN\myWebsite\source\images" />
       <recent name="C:\Users\VULCAN\myWebsite\source\_posts" />
     </key>
@@ -61,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578101447358</updated>
       <workItem from="1578101449123" duration="14479000" />
-      <workItem from="1578191595833" duration="5233000" />
+      <workItem from="1578191595833" duration="7206000" />
     </task>
     <servers />
   </component>
