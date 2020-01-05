@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="43011077-f823-4cf1-aeee-8402a569d38a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/alipay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-ayer-master/source/images/wechat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/test-blog1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/test-blog1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/草稿.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578101447358</updated>
       <workItem from="1578101449123" duration="14479000" />
-      <workItem from="1578191595833" duration="7206000" />
+      <workItem from="1578191595833" duration="8216000" />
+      <workItem from="1578205745945" duration="830000" />
     </task>
     <servers />
   </component>
